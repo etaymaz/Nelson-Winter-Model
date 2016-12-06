@@ -48,5 +48,5 @@ The Nelson Winter Entry Model is same as the Base Model, but now we allow for en
 
 The Nelson Winter Entry Model includes all functions available in the base model. It has two additional functions: __enterFirms()__ and __exitFirms()__. As their names imply, the first function cretaes new firms, and the second function deletes unsuccessful firms. The number of new firms depends on some exogenous parameters and the average profitability in the market. Exit depends on the number of periods with negative profit rate. The user can change parameter values so as to make entry faster and/or strongly correlated with market profitability, and to make exit faster.
 
-![Entry experiment results](./Figures/new.jpg)
+![Entry experiment results](./Figures/nwe.jpg)
 
