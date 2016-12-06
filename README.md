@@ -1,4 +1,4 @@
-# Nelson-Winter-Model
+# Nelson Winter Model
 
  Nelson and Winter have developed the most influential simulation models to analyze the processes of industrial dynamics and economic growth. Their models are perfect examples of the KISS principle in simulation. The models and the evolutionary theory on which the models are based are explained in detail in their path-breaking book, Nelson, R.R., and Winter, S.G. (1982), _An Evolutionary Theory of Economic Change_, Belknap Press, Cambridge, Mass. and London.
 
@@ -48,4 +48,5 @@ The Nelson Winter Entry Model is same as the Base Model, but now we allow for en
 
 The Nelson Winter Entry Model includes all functions available in the base model. It has two additional functions: __enterFirms()__ and __exitFirms()__. As their names imply, the first function cretaes new firms, and the second function deletes unsuccessful firms. The number of new firms depends on some exogenous parameters and the average profitability in the market. Exit depends on the number of periods with negative profit rate. The user can change parameter values so as to make entry faster and/or strongly correlated with market profitability, and to make exit faster.
 
+![Entry experiment results](./Figures/new.jpg)
 
