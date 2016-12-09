@@ -15,6 +15,7 @@
 # R OPTIONS
 # Enter recover option so that debugging will be easier
 options(error=recover)
+
 # Convert warnings to errors
 options(warn=2)
 
