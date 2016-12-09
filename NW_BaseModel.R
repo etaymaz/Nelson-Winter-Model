@@ -1,5 +1,5 @@
 # Nelson Winter Base Model
-# The model is based on the NW model discussed in Chapte 12 of 
+# The model is based on the NW model discussed in Chapter 12 of 
 # Nelson, R.R., and Winter, S.G. (1982), 
 # "An Evolutionary Theory of Economic Change",
 # Belknap Press, Cambridge, Mass. and London.
